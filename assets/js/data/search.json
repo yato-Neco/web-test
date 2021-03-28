@@ -1,0 +1,19 @@
+[
+  
+  {
+    "title": "discord.py[voice]について",
+    "url": "/posts/discordbot/",
+    "categories": "プログラミング",
+    "tags": "python, discord.py",
+    "date": "2021-03-25 00:00:00 +0900",
+    
+
+
+
+
+
+    "snippet": "discord.py[voice]がインストールできない動作環境  OS: Chromebook  CPU(SoC): MediaTek Helio P60T  Python 3.7.3  pip 21.0.1なぜかPEP 517 エラーがでてインストールできない。pipのバージョンを下げたが意味無し。対処sudo apt install libffi-dev libnacl-dev python3-devでインストールできた。引用: Debianベースのシステムでは、次のコマンドで依存関係にあるライブラリを取得できますらしい…"
+  }
+  
+]
+
