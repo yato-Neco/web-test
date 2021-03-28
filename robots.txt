@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://yato-neco.github.io/web-test''/sitemap.xml
